@@ -33,7 +33,7 @@ def palindrome(head):
     return palindrome_compare(head, reverse_head)
 ```
 #### Complexity Analysis
-* Time Complexity: O(n), best & worst case
+* Time Complexity: O(n)
 * Space Complexity: O(n)
 * Reverse_list, time Complexity: O(n)
 
@@ -75,4 +75,4 @@ def palindrome(head):
 ```
 #### Complexity Analysis
 * Time Complexity: O(n)
-* Space Complexity: O(n). 
+* Space Complexity: O(n)
